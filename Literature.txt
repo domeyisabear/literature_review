@@ -1,13 +1,10 @@
-﻿Agarwal, R., Ergun, O., 2008. Ship scheduling and network design for cargo routing in liner shipping. Transportation Science 42, 175-196.
+Agarwal, R., Ergun, O., 2008. Ship scheduling and network design for cargo routing in liner shipping. Transportation Science 42, 175-196.
 Agarwal, R., Ergun, O., 2010. Network Design and Allocation Mechanisms for Carrier Alliances in Liner Shipping. Operations Research 58, 1726-1742.
-Agra, A., Christiansen, M., Delgado, A., Hvattum, L.M., 2015. A maritime inventory routing problem with stochastic sailing and port times. Computers & Operations Research 61, 18-30.
-Akyuz, M.H., Lee, C.Y., 2014. A mathematical formulation and efficient heuristics for the dynamic container relocation problem. Naval Research Logistics 61, 101-118.
 Akyuz, M.H., Lee, C.Y., 2016. Service type assignment and container routing with transit time constraints and empty container repositioning for liner shipping service networks. Transportation Research Part B-Methodological 88, 46-71.
 Alharbi, A., Wang, S.A., Davy, P., 2015. Schedule design for sustainable container supply chain networks with port time windows. Advanced Engineering Informatics 29, 322-331.
 Alvarez, J.F., 2009. Joint routing and deployment of a fleet of container vessels. Maritime Economics & Logistics 11, 186-208.
 Alvarez, J.F., 2012. Mathematical expressions for the transit time of merchandise through a liner shipping network. Journal of the Operational Research Society 63, 709-714.
 An, F., Hu, H., Xie, C., 2015. Service network design in inland waterway liner transportation with empty container repositioning. European Transport Research Review 7.
-Andersen, J., Crainic, T.G., Christiansen, M., 2009. Service network design with management and coordination of multiple fleets. European Journal of Operational Research 193, 377-389.
 Aydin, N., Lee, H., Mansouri, S.A., 2017. Speed optimization and bunkering in liner shipping in the presence of uncertain service times and time windows at ports. European Journal of Operational Research 259, 143-154.
 Bakkehaug, R., Eidem, E.S., Fagerholt, K., Hvattum, L.M., 2014. A stochastic programming formulation for strategic fleet renewal in shipping. Transportation Research Part E-Logistics and Transportation Review 72, 60-76.
 Bakkehaug, R., Rakke, J.G., Fagerholt, K., Laporte, G., 2016. An adaptive large neighborhood search heuristic for fleet deployment problems with voyage separation requirements. Transportation Research Part C-Emerging Technologies 70, 129-141.
@@ -24,11 +21,9 @@ Chang, C.H., Lan, L.W., Lee, M., 2015. An integrated container management model 
 Chen, C., Zeng, Q.C., 2010. DESIGNING CONTAINER SHIPPING NETWORK UNDER CHANGING DEMAND AND FREIGHT RATES. Transport 25, 46-57.
 Chen, J.H., Yahalom, S., 2013. Container Slot Co-Allocation Planning with Joint Fleet Agreement in a Round Voyage for Liner Shipping. Journal of Navigation 66, 589-603.
 Chen, K., Chen, D.X., Sun, X.S., Yang, Z.Z., 2016. Container Ocean-transportation System Design with the factors of demand fluctuation and choice inertia of shippers. Transportation Research Part E-Logistics and Transportation Review 95, 267-281.
-Chen, R.Y., Dong, J.X., Lee, C.Y., 2016. Pricing and competition in a shipping market with waste shipments and empty container repositioning. Transportation Research Part B-Methodological 85, 32-55.
 Choi, B.C., Lee, K., Leung, J.Y.T., Pinedo, M.L., Briskorn, D., 2012. Container Scheduling: Complexity and Algorithms. Production and Operations Management 21, 115-128.
 Chou, C.C., Gou, R.H., Tsai, C.L., Tsou, M.C., Wong, C.P., Yu, H.L., 2010. Application of a mixed fuzzy decision making and optimization programming model to the empty container allocation. Applied Soft Computing 10, 1071-1079.
 Christiansen, M., 1999. Decomposition of a combined inventory and time constrained ship routing problem. Transportation Science 33, 3-16.
-Christiansen, M., Fagerholt, K., 2002. Robust ship scheduling with multiple time windows. Naval Research Logistics 49, 611-625.
 Christiansen, M., Nygreen, B., 1998. Modelling path flows for a combined ship routing and inventory management problem. Annals of Operations Research 82, 391-412.
 Chuang, T.N., Lin, C.T., Kung, J.Y., Lin, M.D., 2010. Planning the route of container ships: A fuzzy genetic approach. Expert Systems with Applications 37, 2948-2956.
 Dong, J.X., Lee, C.Y., Song, D.P., 2015. Joint service capacity planning and dynamic container routing in shipping network with uncertain demands. Transportation Research Part B-Methodological 78, 404-421.
@@ -65,7 +60,6 @@ Jaramillo, D.I., Perakis, A.N., 1991. Fleet deployment optimization for liner sh
 Karsten, C.V., Pisinger, D., Ropke, S., Brouer, B.D., 2015. The time constrained multi-commodity network flow problem and its application to liner shipping network design. Transportation Research Part E-Logistics and Transportation Review 76, 122-138.
 Korsvik, J.E., Fagerholt, K., Laporte, G., 2010. A tabu search heuristic for ship routing and scheduling. Journal of the Operational Research Society 61, 594-603.
 Korsvik, J.E., Fagerholt, K., Laporte, G., 2011. A large neighbourhood search heuristic for ship routing and scheduling with split loads. Computers & Operations Research 38, 474-483.
-Laake, J., Zhang, A., 2016. Joint optimization of strategic fleet planning and contract analysis in tramp shipping. Applied Economics 48, 203-211.
 Lagoudis, I.N., Fragkos, S.N., Litinas, N.A., 2010. Estimating optimum container and vessel fleet sizes in a cyclic liner service using a holistic approach. International Journal of Shipping and Transport Logistics 2, 4-21.
 Li, C., Qi, X.T., Lee, C.Y., 2015. Disruption Recovery for a Vessel in Liner Shipping. Transportation Science 49, 900-921.
 Li, C., Qi, X.T., Song, D.P., 2016. Real-time schedule recovery in liner shipping service with regular uncertainties and disruption events. Transportation Research Part B-Methodological 93, 762-788.
@@ -83,9 +77,9 @@ Maras, V., 2008. Determining Optimal Transport Routes of Inland Waterway Contain
 Meng, Q., Du, Y.Q., Wang, Y.D., 2016. Shipping log data based container ship fuel efficiency modeling. Transportation Research Part B-Methodological 83, 207-229.
 Meng, Q., Wang, S.A., 2011. Intermodal Container Flow Simulation Model and Its Applications. Transportation Research Record, 35-41.
 Meng, Q., Wang, S.A., 2011. Liner shipping service network design with empty container repositioning. Transportation Research Part E-Logistics and Transportation Review 47, 695-708.
+Meng, Q., Wang, S.A., 2011. Optimal operating strategy for a long-haul liner service route. European Journal of Operational Research 215, 105-114.
 Meng, Q., Wang, S.A., 2012. Liner ship fleet deployment with week-dependent container shipment demand. European Journal of Operational Research 222, 241-252.
 Meng, Q., Wang, S.A., Liu, Z.Y., 2012. Network Design for Shipping Service of Large-Scale Intermodal Liners. Transportation Research Record, 42-50.
-Meng, Q., Wang, S.A.A., 2011. Optimal operating strategy for a long-haul liner service route. European Journal of Operational Research 215, 105-114.
 Meng, Q., Wang, T.S., 2010. A chance constrained programming model for short-term liner ship fleet planning problems. Maritime Policy & Management 37, 329-346.
 Meng, Q., Wang, T.S., 2011. A scenario-based dynamic programming model for multi-period liner ship fleet planning. Transportation Research Part E-Logistics and Transportation Review 47, 401-413.
 Meng, Q., Wang, T.S., Wang, S.A., 2012. Short-term liner ship fleet planning with container transshipment and uncertain container shipment demand. European Journal of Operational Research 223, 96-105.
@@ -125,13 +119,12 @@ Song, D.P., Dong, J.X., 2012. Cargo routing and empty container repositioning in
 Song, D.P., Dong, J.X., 2013. Long-haul liner service route design with ship deployment and empty container repositioning. Transportation Research Part B-Methodological 55, 188-211.
 Song, D.P., Dong, J.X., Roe, M., 2010. Optimal container dispatching policy and its structure in a shuttle service with finite capacity and random demands. International Journal of Shipping and Transport Logistics 2, 44-58.
 Song, D.P., Li, D., Drake, P., 2015. Multi-objective optimization for planning liner shipping service with uncertain port times. Transportation Research Part E-Logistics and Transportation Review 84, 1-22.
-Song, D.P., Xu, J.J., 2012. An operational activity-based method to estimate CO2 emissions from container shipping considering empty container repositioning. Transportation Research Part D-Transport and Environment 17, 91-96.
 Song, D.W., Panayides, P.M., 2002. A conceptual application of cooperative game theory to liner shipping strategic alliances. Maritime Policy and Management 29, 285-301.
 Stalhane, M., Andersson, H., Christiansen, M., Cordeau, J.F., Desaulniers, G., 2012. A branch-price-and-cut method for a ship routing and scheduling problem with split loads. Computers & Operations Research 39, 3361-3375.
 Sun, Z., Zheng, J.F., 2016. Finding potential hub locations for liner shipping. Transportation Research Part B-Methodological 93, 750-761.
 Tavasszy, L., Minderhoud, M., Perrin, J.F., Notteboom, T., 2011. A strategic network choice model for global container flows: specification, estimation and application. Journal of Transport Geography 19, 1163-1172.
 Tierney, K., Askelsdottir, B., Jensen, R.M., Pisinger, D., 2015. Solving the Liner Shipping Fleet Repositioning Problem with Cargo Flows. Transportation Science 49, 652-674.
-Ting, S.C., Tzeng, G.H., 2003. Ship scheduling and cost analysis for route planning in liner shipping. Marit. Econ. Logist. 5, 378-392.
+Ting, S.C., Tzeng, G.H., 2003. Ship scheduling and cost analysis for route planning in liner shipping. Maritime Economics & Logistics 5, 378-392.
 Ting, S.C., Tzeng, G.H., 2016. Bi-criteria approach to containership slot allocation in liner shipping. Maritime Economics & Logistics 18, 141-157.
 Wang, H., Wang, S.A., Meng, Q., 2014. Simultaneous optimization of schedule coordination and cargo allocation for liner container shipping networks. Transportation Research Part E-Logistics and Transportation Review 70, 261-273.
 Wang, H., Zhang, X.N., Wang, S., 2016. A joint optimization model for liner container cargo assignment problem using state-augmented shipping network framework. Transportation Research Part C-Emerging Technologies 68, 425-446.
