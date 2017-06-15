@@ -15,7 +15,6 @@ Bronmo, G., Christiansen, M., Fagerholt, K., Nygreen, B., 2007. A multi-start lo
 Brouer, B.D., Alvarez, J.F., Plum, C.E.M., Pisinger, D., Sigurd, M.M., 2014. A Base Integer Programming Model and Benchmark Suite for Liner-Shipping Network Design. Transportation Science 48, 281-312.
 Brouer, B.D., Desaulniers, G., Pisinger, D., 2014. A matheuristic for the liner shipping network design problem. Transportation Research Part E-Logistics and Transportation Review 72, 42-59.
 Brouer, B.D., Dirksen, J., Pisinger, D., Plum, C.E.M., Vaaben, B., 2013. The Vessel Schedule Recovery Problem (VSRP) - A MIP model for handling disruptions in liner shipping. European Journal of Operational Research 224, 362-374.
-Brouer, B.D., Karsten, C.V., Pisinger, D., 2017. Optimization in liner shipping. 4or-a Quarterly Journal of Operations Research 15, 1-35.
 Brouer, B.D., Pisinger, D., Spoorendonk, S., 2011. Liner Shipping Cargo Allocation with Repositioning of Empty Containers. Infor 49, 109-124.
 Chang, C.H., Lan, L.W., Lee, M., 2015. An integrated container management model for optimizing slot allocation plan and empty container repositioning. Maritime Economics & Logistics 17, 315-340.
 Chen, C., Zeng, Q.C., 2010. DESIGNING CONTAINER SHIPPING NETWORK UNDER CHANGING DEMAND AND FREIGHT RATES. Transport 25, 46-57.
@@ -67,7 +66,6 @@ Li, L., Wang, B., Cook, D.P., 2014. Enhancing green supply chain initiatives via
 Lin, D.Y., Tsai, Y.Y., 2014. The ship routing and freight assignment problem for daily frequency operation of maritime liner shipping. Transportation Research Part E-Logistics and Transportation Review 67, 52-70.
 Liu, X.X., Ye, H.Q., Yuan, X.M., 2011. Tactical planning models for managing container flow and ship deployment. Maritime Policy & Management 38, 487-508.
 Liu, Z.Y., Meng, Q., Wang, S.A., Sun, Z., 2014. Global intermodal liner shipping network design. Transportation Research Part E-Logistics and Transportation Review 61, 28-39.
-Liu, Z.Y., Wang, S.A., Du, Y.Q., Wang, H., 2016. Supply Chain Cost Minimization by Collaboration between Liner Shipping Companies and Port Operators. Transportation Journal 55, 296-314.
 Long, Y., Chew, E.P., Lee, L.H., 2015. Sample average approximation under non-i.i.d. sampling for stochastic empty container repositioning problem. Or Spectrum 37, 389-405.
 Long, Y., Lee, L.H., Chew, E.P., 2012. The sample average approximation method for empty container repositioning with uncertainties. European Journal of Operational Research 222, 65-75.
 Long, Y., Lee, L.H., Chew, E.P., Luo, Y., Shao, J., Senguta, A., Chua, S.M.L., 2013. OPERATION PLANNING FOR MARITIME EMPTY CONTAINER REPOSITIONING. International Journal of Industrial Engineering-Theory Applications and Practice 20, 141-152.
@@ -111,7 +109,6 @@ Sheng, X.M., Chew, E.P., Lee, L.H., 2015. (s, S) policy model for liner shipping
 Sheng, X.M., Lee, L.H., Chew, E.P., 2014. Dynamic determination of vessel speed and selection of bunkering ports for liner shipping under stochastic environment. Or Spectrum 36, 455-480.
 Shintani, K., Imai, A., Nishimura, E., Papadimitriou, S., 2007. The container shipping network design problem with empty container repositioning. Transportation Research Part E-Logistics and Transportation Review 43, 39-59.
 Shu, J., Song, M., 2014. Dynamic Container Deployment: Two-Stage Robust Model, Complexity, and Computational Results. Informs Journal on Computing 26, 135-149.
-Song, D.P., Carter, J., 2008. Optimal empty vehicle redistribution for hub-and-spoke transportation systems. Naval Research Logistics 55, 156-171.
 Song, D.P., Carter, J., 2009. Empty container repositioning in liner shipping. Maritime Policy & Management 36, 291-307.
 Song, D.P., Dong, J.X., 2011. Effectiveness of an empty container repositioning policy with flexible destination ports. Transport Policy 18, 92-101.
 Song, D.P., Dong, J.X., 2011. Flow balancing-based empty container repositioning in typical shipping service routes. Maritime Economics & Logistics 13, 61-77.
