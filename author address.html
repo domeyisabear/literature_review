@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<title>GPS data</title>
+		<title>Distribution of authors</title>
 		<base target="_top"></base>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
@@ -46,14 +46,14 @@
 		
 		<!-- begin GPS Visualizer setup script (must come after maps.google.com code) -->
 		<script type="text/javascript">
-			/* Global variables used by the GPS Visualizer functions (20170612054925): */
+			/* Global variables used by the GPS Visualizer functions (20170801045058): */
 			gv_options = {};
 			
 			// basic map parameters:
 			gv_options.center = [10.2746849,39.0696335];  // [latitude,longitude] - be sure to keep the square brackets
 			gv_options.zoom = 1;  // higher number means closer view; can also be 'auto' for automatic zoom/center based on map elements
-			gv_options.map_type = 'GV_HYBRID';  // popular map_type choices are 'GV_STREET', 'GV_SATELLITE', 'GV_HYBRID', 'GV_TERRAIN', 'GV_OSM', 'GV_TOPO_US', 'GV_TOPO_WORLD' (http://www.gpsvisualizer.com/misc/google_map_types.html)
-			gv_options.map_opacity = 0.50;  // number from 0 to 1
+			gv_options.map_type = 'GV_STREET';  // popular map_type choices are 'GV_STREET', 'GV_SATELLITE', 'GV_HYBRID', 'GV_TERRAIN', 'GV_OSM', 'GV_TOPO_US', 'GV_TOPO_WORLD' (http://www.gpsvisualizer.com/misc/google_map_types.html)
+			gv_options.map_opacity = 1.00;  // number from 0 to 1
 			gv_options.full_screen = true;  // true|false: should the map fill the entire page (or frame)?
 			gv_options.width = 700;  // width of the map, in pixels
 			gv_options.height = 350;  // height of the map, in pixels
@@ -291,13 +291,12 @@
 				GV_Draw_Marker({lat:-27.5508003,lon:153.0645447,name:'Nathan, Qld Australia',desc:'n: 1',color:'',icon:'',scale:0.188});
 				GV_Draw_Marker({lat:5.5124016,lon:-73.5546875,name:'Montreal, PQ, Canada',desc:'n: 1',color:'',icon:'',scale:0.188});
 				
-				
 				GV_Finish_Map();
 					
 			  
 			}
 			GV_Map(); // execute the above code
-			// http://www.gpsvisualizer.com/map_input?form=data&special=data&units=metric&wpt_resize=custom&wpt_resize_custom=n
+			// http://www.gpsvisualizer.com/map_input?bg_map=google_map&bg_opacity=100&drawing_title=Distribution%20of%20authors&form=data&lightness=100&special=data&units=metric&wpt_resize=custom&wpt_resize_custom=n
 		</script>
 		
 		
